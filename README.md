@@ -105,6 +105,13 @@ train.reset_index(drop=True, inplace=True)
 ![image](https://user-images.githubusercontent.com/120009186/234349611-b213451f-fd63-45c8-8d71-017c75a024c5.png)
 
 - 모델링
+lgbm모델과 pca를 적용한 lgbm모델, catboost, xgboost모델을 비교 분석하였다.
+
+![image](https://github.com/doubleleepark/kaggle_wine/assets/120009186/b58ec070-7f0a-466d-9483-3774cbe0bb56)
+
+pca는 수치에 따라 8~9개를 활용
+
+![image](https://github.com/doubleleepark/kaggle_wine/assets/120009186/3611d731-9337-41ac-93cc-2908feaefd9f)
 
 
 
